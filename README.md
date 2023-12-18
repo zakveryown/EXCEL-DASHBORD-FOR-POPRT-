@@ -14,4 +14,5 @@ Create a pivot table for “Profit by Countries and Products ” and a correspon
 
 ![](Sources/Dashboard.png)
 
+![profit sold by contries and product](https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/assets/150923720/7b4547a8-ecbb-4186-911a-d7ae036c80a4)
 
