@@ -8,5 +8,5 @@ Create a pivot table for “Profit by Countries and Products ” and a correspon
 ![](Sources/Profitsoldbymonth.png)
 ![](Sources/UnitSoldByprofit.png)
 ![](Sources/Unitsoldbyproduct.png)
-![](sources/Dashboard.png)
+![](SourcesDashboard.png)
 
