@@ -8,7 +8,7 @@ Create a pivot table for “Profit by Countries and Products ” and a correspon
 
 ![](Sources/Profitsoldbymonth.png)
 
-![](Sources/profit sold by contries and product.png)
+![](Sources/https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/blob/main/Sources/profit%20sold%20by%20contries%20and%20product.png)
 
 ![](Sources/Unitsoldbyproduct.png)
 
