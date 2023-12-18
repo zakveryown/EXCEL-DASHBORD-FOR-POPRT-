@@ -5,7 +5,7 @@ I also created a pivot table for “Unit Sold by Months” and a corresponding c
 Create a pivot table for “Profit by Countries and Products ” and a corresponding chart or graph. I Created a Dashboard and designed and customized my dashboard, then I Created three slicers.
  
 ![](Sources/ProfitBYMonth.png)
-![](Sources/Profitbycountriesandproduct.png)
+![](Sources/Profitsoldbymonth.png)
 ![](Sources/UnitSoldByprofit.png)
 ![](Sources/Unitsoldbyproduct.png)
 ![](sources/Dashboard.png)
