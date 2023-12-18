@@ -16,3 +16,10 @@ Create a pivot table for “Profit by Countries and Products ” and a correspon
 
 ![profit sold by contries and product](https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/assets/150923720/7b4547a8-ecbb-4186-911a-d7ae036c80a4)
 
+![Profitsoldbymonth](https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/assets/150923720/e56a0d90-e0fd-40cc-bc9f-4cadc8f796ab)
+
+
+![profit sold by contries and product](https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/assets/150923720/d6393403-551b-4fe3-8528-f1217fbd575f)
+
+
+![unitsoldbypoduct](https://github.com/zakveryown/EXCEL-DASHBORD-FOR-POPRT-/assets/150923720/de7de82a-e3c6-4fb9-b53f-8b97ca9819a5)
